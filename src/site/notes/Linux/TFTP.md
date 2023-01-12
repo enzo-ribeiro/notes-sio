@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/linux/tftp/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/linux/tftp/"}
 ---
 
 
