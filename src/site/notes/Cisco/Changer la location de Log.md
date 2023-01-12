@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/cisco/changer-la-location-de-log/"}
 ---
 
+
 Pour ce TP nous utilisons un serveur RSysLog hébergé par une machine debian. 
 ```IOS
 Switch> en
