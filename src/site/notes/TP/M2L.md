@@ -26,7 +26,7 @@ Salle de ressources (VLAN "public" filaire) :
  - Amphitéatre (5 prises )
  - Salle de réunion (16 prises Ethernet)
  - Salle de convivialité (0 prise)
-#172.16.10.97/27 #172.16.126/27
+#172.16.10.97/27 #172.16.10.126/27
 
 Ecrans :
 - 4 @ (3 prises Ethernet)
