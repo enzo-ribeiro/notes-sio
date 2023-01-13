@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/cisco/vlan/creation-de-vlan-ios/"}
 ---
 
-en 
-conf t
-vlan <Numéro de VLAN>
+
+```
+Switch> en 
+Switch# conf t
+Switch(config)# vlan <Numéro_de_VLAN>
+```
