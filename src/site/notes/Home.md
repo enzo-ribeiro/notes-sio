@@ -3,6 +3,8 @@
 ---
 
 
+# Home :house:
+
 Bienvnue sur mes notes. Je m'appelle Enzo RIBEIRO actuellement je suis en deuxième année de BTS SIO et je vous partage mes notes prises depuis ma première année. 
 
 Pour commencer nous avons les notes Cisco (probablemen tles plus importante si vous êtes en BTS): 
