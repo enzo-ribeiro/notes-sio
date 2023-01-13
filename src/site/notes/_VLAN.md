@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vlan/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/vlan/"}
 ---
 
 IOS 
