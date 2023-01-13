@@ -26,13 +26,10 @@ VLAN :
 
 Ensuite nous avons les notes Linux :
 
-```
-- [[Chrony]]
-- [[RSysLog]]
-- [[TFTP]]
-```
-*Ce site est encore en cours de développement ...*
+- [[Linux/Chrony\|Chrony]]
+- [[Linux/RSysLog\|RSysLog]]
+- [[Linux/TFTP\|TFTP]]
 
-```markdown
-- [x]
+```Markdown
+*Ce site est encore en cours de développement ...*
 ```
