@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tp/m2-l/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/tp/m2-l/"}
 ---
 
 Ligue (VLAN) :
