@@ -11,7 +11,7 @@ Router :
 - [[Cisco/Routeur/ACLs/Access-List\|Access-List]]
 - [[Cisco/Routeur/ACLs/Les ACLs standards\|Les ACLs standards]]
 - [[Cisco/Routeur/Routage 'on a stick' ou Routage inter-VLAN\|Routage 'on a stick' ou Routage inter-VLAN]]
-- [[Cisco/Routeur/Faire un Etherchannel (Protocole LACP)\|Faire un Etherchannel (Protocole LACP)]]
+- [[Cisco/Faire un Etherchannel (Protocole LACP)\|Faire un Etherchannel (Protocole LACP)]]
 
 Switch :
 - [[Cisco/Switch/Comment faire un lien trunk\|Comment faire un lien trunk]]
