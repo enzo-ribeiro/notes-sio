@@ -10,7 +10,7 @@ Pour commencer nous avons les notes Cisco (probablemen tles plus importante si v
 ACL :
 - [[Cisco/Routeur/ACLs/Access-List\|Access-List]]
 - [[Cisco/Routeur/ACLs/Les ACLs standards\|Les ACLs standards]]
-- [[Cisco/Routeur/Routage 'on a stick'\|Routage 'on a stick']]
+- [[Cisco/Routeur/Routage 'on a stick' ou Routage inter-VLAN\|Routage 'on a stick' ou Routage inter-VLAN]]
 
 Switch :
 - [[Cisco/Switch/Comment faire un lien trunk\|Comment faire un lien trunk]]
