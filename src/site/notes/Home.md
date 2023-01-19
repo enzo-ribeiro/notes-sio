@@ -8,10 +8,13 @@ Bienvnue sur mes notes. Je m'appelle Enzo RIBEIRO actuellement je suis en deuxi�
 Pour commencer nous avons les notes Cisco (probablemen tles plus importante si vous êtes en BTS): 
 
 Router :
-- [[Cisco/Routeur/ACLs/Access-List\|Access-List]]
 - [[Cisco/Routeur/ACLs/Les ACLs standards\|Les ACLs standards]]
 - [[Cisco/Routeur/Routage 'on a stick' ou Routage inter-VLAN\|Routage 'on a stick' ou Routage inter-VLAN]]
 - [[Cisco/Faire un Etherchannel (Protocole LACP)\|Faire un Etherchannel (Protocole LACP)]]
+- [[Cisco/Sécurisation des ports\|Sécurisation des ports]]
+- [[Cisco/Changer la location de Log\|Changer la location de Log]]
+- [[Cisco/Changer le serveur NTP\|Changer le serveur NTP]]
+- [[Cisco/Importer une configuration TFTP\|Importer une configuration TFTP]]
 
 Switch :
 - [[Cisco/Switch/Comment faire un lien trunk\|Comment faire un lien trunk]]
@@ -26,7 +29,6 @@ VLAN :
 
 
 Ensuite nous avons les notes Linux :
-
 - [[Linux/Chrony\|Chrony]]
 - [[Linux/RSysLog\|RSysLog]]
 - [[Linux/TFTP\|TFTP]]
