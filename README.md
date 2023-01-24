@@ -7,3 +7,5 @@ See the README in the plugin repo for information on how to set it up.
 ---
 ## Custom Styling
 I encourage you to change the default styling to make the site your own. Please modify the custom-style.scss when doing so to avoid future conflict when updating the template.
+
+## NDD :: enzo-ribeiro.netlify.app
