@@ -5,7 +5,7 @@
 
 Bienvnue sur mes notes. Je m'appelle Enzo RIBEIRO actuellement je suis en deuxième année de BTS SIO et je vous partage mes notes prises depuis ma première année. 
 
-Pour commencer nous avons les notes Cisco (probablemen tles plus importante si vous êtes en BTS): 
+Pour commencer nous avons les notes Cisco (probablement les plus importantes si vous êtes en BTS): 
 
 Router :
 - [[Cisco/Routeur/ACLs/Les ACLs standards\|Les ACLs standards]]
