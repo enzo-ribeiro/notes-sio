@@ -49,10 +49,10 @@ touch /tftpboot/<nom_du_routeur-ou-switch>
 ```
 Puis nous allons également lui donner les droits :
 ```shell
-chmod 777 /tftpboot/<nom_du_routeur-ou-switch
+chmod 777 /tftpboot/<nom_du_routeur-ou-switch>
 ```
 
-Ensuite nous nous redons sur le Switch/Routeur :
+Ensuite nous nous rendons sur le Switch/Routeur :
 ```IOS
 Switch> en
 Switch# copy running-config tftp
@@ -63,6 +63,6 @@ Switch# copy running-config tftp
 
 Une fois cela fait nous nous rendons sur la machine debian qui héberge le service tftp :
 ```shell
-cat /tftpboot/<nom_du_routeur-ou-switch
+cat /tftpboot/<nom_du_routeur-ou-switch>
 ```
 
