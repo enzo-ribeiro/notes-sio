@@ -19,7 +19,7 @@ Routeur(config-if)# no shut
 Routeur(config-if)# ex
 ```
 
-Une fois cela fait on commence la configuration du router : 
+Une fois cela fait on commence la R configuration du router : 
 ```IOS
 Routeur(config)# int gi0/0.1
 Routeur(config-subif)# encapsulation dot1Q 10
