@@ -16,9 +16,9 @@ include "/etc/bind/named.conf.default-zones";
 ```
 Dans le fichier de configuration de bind9 « named.conf.local », déclarer ses zones :
 ```Shell
-zone "example.com" {
+zone "m2l.site" {
         type master;
-        file "/etc/bind/db.example.com";
+        file "/etc/bind/db.m2l.site";
 };
 ```
 Dans db.example.com, on configure sa zone (l’IP du serveur DNS est 10.54.0.30 ):
