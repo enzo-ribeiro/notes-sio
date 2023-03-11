@@ -3,7 +3,7 @@
 ---
 
 Tout d'abord il va fallori installer Bind9 :
-```Shell
+```shell
 sudo -s 
 apt install bind9
 ```
@@ -23,7 +23,7 @@ zone "m2l.site" {
 ```
 Dans db.example.com, on configure sa zone (l’IP du serveur DNS est 10.54.0.30 ):
 
-```Shell
+```shell
 ;
 ; BIND data file for example.com
 ;
