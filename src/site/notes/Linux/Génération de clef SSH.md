@@ -15,5 +15,5 @@ Enter same passphrase again:
 
 Maintenant que cela est fait on peut envoyer cette clef 
 ```Shell
-ssh-copy-id 'username'@'@_ip'
+ssh-copy-id -i <Chemin_du_fichier_id_rsa.pub> 'username'@'@_ip'
 ```
