@@ -11,6 +11,8 @@ Router cisco :
 - [[Cisco/Routeur/ACLs/Les ACLs standards\|Les ACLs standards]]
 - [[Cisco/Routeur/Routage 'on a stick' ou Routage inter-VLAN\|Routage 'on a stick' ou Routage inter-VLAN]]
 - [[Cisco/Routeur/SSH avec un routeur cisco\|SSH avec un routeur cisco]]
+- [[Cisco/Routeur/NAT\|NAT]]
+- [[Cisco/Routeur/PAT\|PAT]]
 
 Switch cisco :
 - [[Cisco/Switch/Comment faire un lien trunk\|Comment faire un lien trunk]]
@@ -31,8 +33,7 @@ Cisco (général) :
 - [[Cisco/IOS/Définir un mot de passe\|Définir un mot de passe]]
 - [[Cisco/IOS/Donner une priorité à un port (QoS)\|Donner une priorité à un port (QoS)]]
 - [[Cisco/IOS/Relai DHCP\|Relai DHCP]]
-- [[Cisco/IOS/NAT\|NAT]]
-- [[Cisco/IOS/PAT\|PAT]]
+
 
 Ensuite nous avons les notes Linux :
 - [[Linux/Ansible\|Ansible]]
