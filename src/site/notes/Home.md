@@ -31,6 +31,8 @@ Cisco (général) :
 - [[Cisco/IOS/Définir un mot de passe\|Définir un mot de passe]]
 - [[Cisco/IOS/Donner une priorité à un port (QoS)\|Donner une priorité à un port (QoS)]]
 - [[Cisco/IOS/Relai DHCP\|Relai DHCP]]
+- [[Cisco/IOS/NAT\|NAT]]
+- [[Cisco/IOS/PAT\|PAT]]
 
 Ensuite nous avons les notes Linux :
 - [[Linux/Ansible\|Ansible]]
