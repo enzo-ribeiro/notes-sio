@@ -23,14 +23,14 @@ VLAN :
 - [[Cisco/VLAN/Donner une IP à un VLAN\|Donner une IP à un VLAN]]
 
 Cisco (général) :
-- [[Cisco/Changer la location de Log\|Changer la location de Log]]
-- [[Cisco/Changer le serveur NTP\|Changer le serveur NTP]]
-- [[Cisco/Importer une configuration TFTP\|Importer une configuration TFTP]]
-- [[Cisco/Faire un Etherchannel (Protocole LACP)\|Faire un Etherchannel (Protocole LACP)]]
-- [[Cisco/Sécurisation des ports\|Sécurisation des ports]]
-- [[Cisco/Définir un mot de passe\|Définir un mot de passe]]
-- [[Cisco/Donner une priorité à un port (QoS)\|Donner une priorité à un port (QoS)]]
-- [[Cisco/Relai DHCP\|Relai DHCP]]
+- [[Cisco/IOS/Changer la location de Log\|Changer la location de Log]]
+- [[Cisco/IOS/Changer le serveur NTP\|Changer le serveur NTP]]
+- [[Cisco/IOS/Importer une configuration TFTP\|Importer une configuration TFTP]]
+- [[Cisco/IOS/Faire un Etherchannel (Protocole LACP)\|Faire un Etherchannel (Protocole LACP)]]
+- [[Cisco/IOS/Sécurisation des ports\|Sécurisation des ports]]
+- [[Cisco/IOS/Définir un mot de passe\|Définir un mot de passe]]
+- [[Cisco/IOS/Donner une priorité à un port (QoS)\|Donner une priorité à un port (QoS)]]
+- [[Cisco/IOS/Relai DHCP\|Relai DHCP]]
 
 Ensuite nous avons les notes Linux :
 - [[Linux/Ansible\|Ansible]]
@@ -42,6 +42,10 @@ Ensuite nous avons les notes Linux :
 - [[Linux/Sécuriser SSH\|Sécuriser SSH]]
 - [[Linux/TFTP\|TFTP]]
 - [[Linux/Wordpress\|Wordpress]]
+
+Les Notes pour le pentest avec Kali Linux :
+- [[Kali/Cheval de Troie\|Cheval de Troie]]
+- [[Kali/Brute-Force Hydra\|Brute-Force Hydra]]
 
 ```Markdown
 *Ce site est encore en cours de développement ...*
