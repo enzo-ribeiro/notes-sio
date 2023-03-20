@@ -34,4 +34,4 @@ $template DynamicFile,"/var/log/<Nom_que_vous_voulez>/forwarded-logs.log"
 ```
 
 Voir aussi : 
-- [[Cisco/Changer la location de Log\|Changer la location de Log]] // Cisco
+- [[Cisco/IOS/Changer la location de Log\|Changer la location de Log]] // Cisco
