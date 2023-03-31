@@ -5,7 +5,7 @@
 Avant tout il faut savoir que RSysLog est natif sur debian donc pas besoin de l'installer. 
 Il faut juste le configurer le fichier `<rsyslog.conf>` pour ca nous allons nous rendre dans le dossier `<etc>`.
 ```shell
-sudo nano /etc/rsyslog.conf 
+nano /etc/rsyslog.conf 
 ```
 
 Le fichier va s'afficher il faudra donc modifier les lignes suivantes : 
@@ -31,6 +31,10 @@ Une fois cela il faut rajouter une ligne avant la catégorie `<RULES>`.
 ```shell
 $template DynamicFile,"/var/log/<Nom_que_vous_voulez>/forwarded-logs.log"
 *.* -?DynamicFile
+```
+Pensez à redémarrez le service.
+```Shell
+systemctl restart rsyslog
 ```
 
 Voir aussi : 
