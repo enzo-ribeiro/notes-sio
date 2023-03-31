@@ -31,7 +31,7 @@ Router(config-if)#ex
 Ensuite on configure le NAT et avec la commande `<ip nat translations>` on vérifie que le NAT est bien en fonction.
 ```Cisco
 Router(config)#int g0/0
-Router(config-if)#ip nat inside source static $Réseau_Inside $Réseau_Outside4
+Router(config-if)#ip nat inside source static $Réseau_Inside $Réseau_Outside
 Router(config)#do sh ip nat translations
 Pro  Inside global    Inside local    Outside local    Outside global
 --- $Réseau_Outside  $Réseau_Inside       ---               ---
