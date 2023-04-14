@@ -98,4 +98,4 @@ The key s randomart image is:
 |+o.=.            |
 +----[SHA256]-----+
 ```
-Maintenant il suffit de déclarer public dans le repertoire `<~/.ssh/authorized-keys>`. Enzuite il faudra déclarer la clef privée dans MobaXTerm à la création de la session SSH. et voilà le tour est joué.
+Maintenant il suffit de déclarer la clef publique dans le repertoire `<~/.ssh/authorized-keys>`. Ensuite il faudra déclarer la clef privée dans MobaXTerm à la création de la session SSH. et voilà le tour est joué.
