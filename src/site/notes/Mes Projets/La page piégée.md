@@ -30,7 +30,7 @@ L'attaquant va essayer de se connecter et nous allons récupérer son IP ainsi q
 ```Shell
 tail /var/tmp/opencanary.log
 ```
-Elle nous returnera les lignes suivantes 
+Elle nous retournera les lignes suivantes 
 ```Shell
 
 {"dst_host": "192.168.1.67", "dst_port": 80, "local_time": "2023-04-18 20:41:07.745543", "local_time_adjusted": "2023-04-18 22:41:07.745562", "logdata": {"HOSTNAME": "192.168.1.67", "PASSWORD": "netlab123", "PATH": "/index.html", "SKIN": "nasLogin", "USERAGENT": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0", "USERNAME": "sysadmin"}, "logtype": 3001, "node_id": "opencanary-1", "src_host": "192.168.1.214", "src_port": 52671, "utc_time": "2023-04-18 20:41:07.745559"}
