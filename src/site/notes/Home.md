@@ -62,7 +62,7 @@ Apprentissage du langage C:
 - [[Dev/C/7) Lire le clavier\|7) Lire le clavier]]
 
 Mon apprentissage de certains languages:
-- [[C\|C]]
+- [[Dev/C\|C]]
 
 Pour finir mes projets :
 - [[Mes Projets/Projet M2L\|Projet M2L]]
