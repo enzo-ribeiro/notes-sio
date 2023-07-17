@@ -22,3 +22,15 @@ main.c:5:17: note: previous definition of 'PI' with type 'float'
       |                 ^~
 ```
 Si un developpeur voudra changer la ligne au moment de la compilation il aura le message d'erreur précédent, car PI ne pas être changé grâce à la déclaration de la constante.
+
+Ou sinon :
+```C
+#include <stdio.h>
+#define PI = 3.14
+
+int main(void)
+{
+    printf("PI est égale à %d", PI);
+    return 0;
+}
+```
