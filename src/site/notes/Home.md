@@ -53,13 +53,13 @@ Les Notes pour le pentest avec Kali Linux :
 - [[Mes Notes/Kali/Brute-Force Hydra\|Brute-Force Hydra]]
 
 Apprentissage du langage C:
-- [[Dev/C/2) Commenter\|2) Commenter]]
-- [[Dev/C/3) Afficher les variables\|3) Afficher les variables]]
-- [[Dev/C/1) Premier Programme\|1) Premier Programme]]
-- [[Dev/C/4) Les variables\|4) Les variables]]
-- [[Dev/C/5) Conversion (float to int)\|5) Conversion (float to int)]]
-- [[Dev/C/6) Avoir une constante\|6) Avoir une constante]]
-- [[Dev/C/7) Lire le clavier\|7) Lire le clavier]]
+- [[Dev/C/Aa) Commenter\|Aa) Commenter]]
+- [[Dev/C/B) Afficher les variables\|B) Afficher les variables]]
+- [[Dev/C/A) Premier Programme\|A) Premier Programme]]
+- [[Dev/C/Bb) Les variables\|Bb) Les variables]]
+- [[Dev/C/C) Conversion (float to int)\|C) Conversion (float to int)]]
+- [[Dev/C/Cc) Avoir une constante\|Cc) Avoir une constante]]
+- [[Dev/C/D) Lire le clavier\|D) Lire le clavier]]
 
 Mon apprentissage de certains languages:
 - [[Dev/C\|C]]
